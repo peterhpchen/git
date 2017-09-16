@@ -1,6 +1,22 @@
 # git筆記
 > 這是使用Git實際操作專案的心得筆記
 
-[Git Init](GitInit.md)
+## 作業環境
+* Operation System: Ubuntu 16.04 LTS
+* Git Version: 2.14.1
 
-[Git Clone](GitClone.md)
+## Setup and Config
+
+* [Insatll Git](InstallGit.md)
+
+* [Git Config](GitConfig.md)
+
+## Getting and Creating Projects
+
+* [Git Init](GitInit.md)
+
+* [Git Clone](GitClone.md)
+
+## 參考
+
+* https://git-scm.com/
