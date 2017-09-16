@@ -9,6 +9,8 @@ git config user.email '[email]'
 ```
 
 ## Git設定檔的層級
+![gitconfig](/images/gitconfig.jpg)
+
 一個Git檔案庫會有三個不同層級的設定檔, 以下依照優先權介紹
 
 1. `.git/config`: 在檔案庫的.git資料夾下會有一個config檔案, 此為這個檔案庫的設定檔, 只有這個檔案庫可以使用此設定, 同時也是對於這個檔案庫來說優先權最高的
