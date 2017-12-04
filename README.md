@@ -12,5 +12,7 @@
 * [Git Clone](GitClone.md)
 ## Branch and Merging
 * [Git Stash](GitStash.md)
+## Other
+* [Multi Account In Single Computer](gitMultiAccount.md)
 ## 參考
 * https://git-scm.com/
