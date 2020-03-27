@@ -9,7 +9,7 @@ git config user.email '[email]'
 ```
 
 ## Git設定檔的層級
-![gitconfig](/images/gitconfig.jpg)
+![gitconfig](/images/git-config/gitconfig.jpg)
 
 一個Git檔案庫會有三個不同層級的設定檔, 以下依照優先權介紹
 
