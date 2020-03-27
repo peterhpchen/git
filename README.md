@@ -4,25 +4,25 @@
 
 ## Preface
 
-* [本地流程(Local Operations)](LocalOperations.md)
+* [本地流程(Local Operations)](local-operations.md)
 
 ## Setup and Config
 
-* [安裝 Git(Insatll Git)](InstallGit.md)
-* [git config](GitConfig.md)
+* [安裝 Git(Insatll Git)](install-git.md)
+* [git config](git-config.md)
 
 ## Getting and Creating Projects
 
-* [git init](GitInit.md)
-* [git clone](GitClone.md)
+* [git init](git-init.md)
+* [git clone](git-clone.md)
 
 ## Branch and Merging
 
-* [git stash](GitStash.md)
+* [git stash](git-stash.md)
 
 ## 使用情境
 
-* [同台電腦使用不同 Git 帳號(Multi Account In Single Computer)](gitMultiAccount.md)
+* [同台電腦使用不同 Git 帳號(Multi Account In Single Computer)](git-multi-account.md)
 * [修改最新的提交紀錄](git-commit.md#修改最近一個-commit)
 
 ## 學習資源
