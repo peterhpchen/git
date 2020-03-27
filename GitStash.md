@@ -29,4 +29,24 @@ stash@{2}: WIP on master: 21d80a5 added number to log
 ```
 git stash stash@{1}
 ```
-這樣會取出第二個儲藏的堆疊
+這樣會取出第二個儲藏的堆疊。
+
+## 查詢 stash 存放的變更紀錄
+
+當需要查詢 stash 中存有那些檔案及變更時，可以用 `git stash show` 來查詢:
+
+```bash
+git stash show
+```
+
+像上面這樣不帶參數時，會查最近的 stash ，也就是 `stash@{0}` ，如果要指定查詢的 stash 的話可以在參數中指定:
+
+```bash
+git stash show stash@{1}
+```
+
+`stash show` 的 `options` 與 `git diff` 是一樣的，因此可以用 `--name-only` 來輸出只有檔案名稱的列表:
+
+```bash
+git stash show --name-only
+```

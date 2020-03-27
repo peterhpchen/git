@@ -2,11 +2,6 @@
 
 > 這是使用Git實際操作專案的心得筆記
 
-## 作業環境
-
-* Operation System: Ubuntu 16.04 LTS
-* Git Version: 2.14.1
-
 ## Preface
 
 * [Local Operations](LocalOperations.md)
