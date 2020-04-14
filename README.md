@@ -19,6 +19,7 @@
 
 ## Branch and Merging
 
+* [git branch](git-branch.md)
 * [git stash](git-stash.md)
 
 ## 使用情境
