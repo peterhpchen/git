@@ -10,6 +10,7 @@
 
 * [安裝 Git(Insatll Git)](install-git.md)
 * [git config](git-config.md)
+* [git remote](git-remote.md)
 
 ## Getting and Creating Projects
 
