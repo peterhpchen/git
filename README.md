@@ -28,6 +28,7 @@
 * [修改最新的提交紀錄](git-commit.md#修改最近一個-commit)
 * [將檔案加入最新的 commit 中](git-commit.md#將檔案加入最新的-commit-中)
 * [回到執行任何指令之前](undo-anything.md)
+* [checkout 遠端分支](checkout-remote-branch.md)
 
 ## 學習資源
 
