@@ -32,6 +32,13 @@ git commit --amend --author="peterhpchen <peterhsinpingchen@gmail.com>" --no-edi
 
 > 避免修改已 push 的 commit，如果修改已 push 的 commit 的話會需要用 push force 才能提交到遠端 repo ，用 push force 會將原本遠端的 commit 修改，如果其他人使用此 repo 的話會造成對方的 branch 錯誤。
 
+## 將檔案加入最新的 commit 中
+
+要將檔案加入最新的 commit ，但是不需要修改其他的部分時可以：
+
+1. 使用 `git add` 將加入檔案
+2. 使用 `git commit --amend --no-edit` 將加入的檔案放進最新的 commit 中
+
 ## 參考資料
 
 * [Stack Overflow: How to change the commit author for one specific commit?

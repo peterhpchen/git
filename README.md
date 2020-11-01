@@ -26,6 +26,7 @@
 
 * [同台電腦使用不同 Git 帳號(Multi Account In Single Computer)](git-multi-account.md)
 * [修改最新的提交紀錄](git-commit.md#修改最近一個-commit)
+* [將檔案加入最新的 commit 中](git-commit.md#將檔案加入最新的-commit-中)
 
 ## 學習資源
 
